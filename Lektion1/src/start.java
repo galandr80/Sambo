@@ -7,7 +7,7 @@ public class start {
 	    ura =s.sum(10, 5);
 	    System.out.println(ura);
         System.out.println("Hallo");
-        
+        System.out.println("Hurrra");
 	}
 
 }
